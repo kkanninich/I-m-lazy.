@@ -1,0 +1,61 @@
+﻿name: Bug or compatibility report
+description: Report a reproducible issue with a tool, guide, or community resource.
+title: "[Bug]: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please report only issues you can describe clearly. Never include passwords, access tokens, session cookies, or private account data.
+  - type: input
+    id: affected_resource
+    attributes:
+      label: Affected resource
+      description: Link the tool, guide, or repository page.
+      placeholder: https://...
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Game / platform / tool version
+      description: Include all versions that may be relevant.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+      description: What did you expect to happen?
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual behavior
+      description: What happened instead?
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Steps to reproduce
+      description: Provide clear steps and any relevant error message.
+    validations:
+      required: true
+  - type: dropdown
+    id: tested
+    attributes:
+      label: Test status
+      options:
+        - Reproduced by me
+        - Happened once
+        - Not yet verified
+    validations:
+      required: true
+  - type: checkboxes
+    id: safety
+    attributes:
+      label: Safety and permissions
+      options:
+        - label: I removed secrets and personal data, and I tested only in an environment I own or am authorized to use.
+          required: true

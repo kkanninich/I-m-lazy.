@@ -4,15 +4,10 @@ An independent community hub for players and enthusiasts interested in **Seven K
 
 > **Unofficial fan community.** This project is not affiliated with, endorsed by, or sponsored by Netmarble or the game's rights holders.
 
-## What this community is for
-
-You do **not** need to be a developer. Players, collectors, researchers, mod creators, server operators, translators, and curious newcomers are welcome.
-
-### Community areas
+## Explore the community
 
 | Area | What belongs here |
 |---|---|
-| General | Introductions, news, questions, and community chat |
 | Unlimited Gameplay | Resource-rich or unlimited-resource experiences and their design |
 | Mods & Customization | Modding concepts, compatibility notes, and user-created modifications |
 | Private Environments | Self-hosted projects, local testing, and authorized private-server discussions |
@@ -20,13 +15,19 @@ You do **not** need to be a developer. Players, collectors, researchers, mod cre
 | Guides & Tutorials | Setup notes, beginner guides, troubleshooting, and translations |
 | Showcase | Screenshots, demonstrations, builds, and project updates |
 | Help & Support | Questions, bug reports, and community assistance |
+| General | Introductions, community topics, and discussion |
 
-## Getting involved
+## Start here
 
 1. Read [Community Guidelines](COMMUNITY_GUIDELINES.md).
-2. Check the [Contributing Guide](CONTRIBUTING.md).
-3. Join the conversation through **GitHub Discussions** when enabled for this repository.
-4. Share a question, guide, tool, project, or useful discovery. Include versions and clear steps when relevant.
+2. See how to [contribute](CONTRIBUTING.md).
+3. Review the [Community Roadmap](COMMUNITY_ROADMAP.md).
+4. Use the [issue templates](https://github.com/kkanninich/I-m-lazy./issues/new/choose) for concrete bug reports, guides, and tool submissions.
+5. See [Discussion Setup](DISCUSSION_SETUP.md) for the community forum plan and the one-time repository setting required to activate it.
+
+## Who can join?
+
+You do **not** need to be a developer. Players, collectors, researchers, mod creators, server operators, translators, and curious newcomers are all welcome. This is a community for people who want to exchange ideas and knowledge, not a formal development team.
 
 ## Important boundaries
 

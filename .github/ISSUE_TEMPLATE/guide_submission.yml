@@ -1,0 +1,50 @@
+﻿name: Share a guide or knowledge resource
+description: Contribute a tutorial, translation, troubleshooting note, or research summary.
+title: "[Guide]: "
+body:
+  - type: input
+    id: title
+    attributes:
+      label: Guide title
+    validations:
+      required: true
+  - type: input
+    id: versions
+    attributes:
+      label: Relevant game, platform, and tool versions
+    validations:
+      required: true
+  - type: textarea
+    id: summary
+    attributes:
+      label: What will readers learn?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Instructions or key findings
+      description: Include prerequisites, clear steps, and expected results.
+    validations:
+      required: true
+  - type: textarea
+    id: limitations
+    attributes:
+      label: Limitations and verification
+      description: Mark untested steps and explain known risks or compatibility limits.
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Sources and credits
+      description: Credit original authors and link to legitimate references.
+    validations:
+      required: true
+  - type: checkboxes
+    id: permissions
+    attributes:
+      label: Final check
+      options:
+        - label: I have permission to share this material and removed personal or secret information.
+          required: true

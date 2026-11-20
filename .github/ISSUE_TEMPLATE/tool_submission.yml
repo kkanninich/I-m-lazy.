@@ -1,0 +1,62 @@
+﻿name: Share a tool or modification
+description: Submit a tool, mod concept, compatibility note, or technical resource for the community index.
+title: "[Tool]: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Share links and documentation, not proprietary game files or paid assets. Do not submit malware, credential theft, or tools for unauthorized access.
+  - type: input
+    id: project
+    attributes:
+      label: Project or tool name
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: Source or project link
+      description: Prefer the original author or official project page.
+    validations:
+      required: true
+  - type: textarea
+    id: purpose
+    attributes:
+      label: What does it do?
+      description: Explain its purpose and who may find it useful.
+    validations:
+      required: true
+  - type: textarea
+    id: compatibility
+    attributes:
+      label: Compatibility and requirements
+      description: Game version, operating system, dependencies, and known limitations.
+    validations:
+      required: true
+  - type: dropdown
+    id: status
+    attributes:
+      label: Verification status
+      options:
+        - Tested and working
+        - Partially tested
+        - Experimental / research only
+        - Archived / no longer maintained
+    validations:
+      required: true
+  - type: textarea
+    id: safety
+    attributes:
+      label: Permissions and safety notes
+      description: State what environment it targets and any relevant risks or permissions.
+    validations:
+      required: true
+  - type: checkboxes
+    id: rights
+    attributes:
+      label: Submission checks
+      options:
+        - label: I have permission to share the linked materials and have not uploaded proprietary game files or paid assets.
+          required: true
+        - label: This submission does not target unauthorized access, account theft, malware, or disruption of services.
+          required: true
