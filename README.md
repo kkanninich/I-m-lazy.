@@ -31,7 +31,7 @@ Start with the [welcome discussion](https://github.com/kkanninich/I-m-lazy./disc
 3. Review the [Community Roadmap](COMMUNITY_ROADMAP.md).
 4. Browse the [Resource Directory](RESOURCE_DIRECTORY.md) and [FAQ](FAQ.md).
 5. Read [Support](SUPPORT.md), [Code of Conduct](CODE_OF_CONDUCT.md), and [Security Policy](SECURITY.md).
-6. Browse the [issue templates](https://github.com/kkanninich/I-m-lazy./issues/new/choose) for bug reports, tool submissions, and guides.
+6. Browse the [issue templates](https://github.com/kkanninich/I-m-lazy./issues/new/choose) for bug reports, tool submissions, guides, and [community project proposals](https://github.com/kkanninich/I-m-lazy./issues/new?template=project_idea.yml).
 7. Join the [Discussions forum](https://github.com/kkanninich/I-m-lazy./discussions).
 
 ## Who can join?
@@ -51,4 +51,5 @@ This is a community for people who want to exchange ideas and knowledge, not a f
 ## Disclaimer
 
 All game names and trademarks belong to their respective owners. This is an independent, fan-run community project. Participation is voluntary and at your own risk.
+
 

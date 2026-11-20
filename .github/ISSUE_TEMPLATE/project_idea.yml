@@ -1,0 +1,62 @@
+﻿name: Propose a community project
+description: Suggest a guide, research effort, tool, event, or other community collaboration.
+title: "[Project idea]: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        This form is for community proposals, not formal job applications or a commitment to build. Small ideas and one-person experiments are welcome. Keep all work within environments and services you own or are authorized to use.
+  - type: input
+    id: name
+    attributes:
+      label: Project or idea name
+      placeholder: A short, descriptive title
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What would this help the community do?
+      description: Describe the opportunity, question, or problem.
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Project type
+      options:
+        - Research or technical investigation
+        - Beginner guide or documentation
+        - Tool or utility
+        - Mod or customization concept
+        - Authorized private-environment experiment
+        - Community event or discussion
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: outcome
+    attributes:
+      label: What would a useful result look like?
+      description: A rough goal is enough. You do not need a complete plan.
+    validations:
+      required: true
+  - type: textarea
+    id: participation
+    attributes:
+      label: How could others participate?
+      description: Examples include testing, research, writing, translation, design, feedback, or simply discussing the idea.
+  - type: textarea
+    id: requirements
+    attributes:
+      label: Known requirements, versions, and limitations
+      description: Include what you know. Mark unknown details as unknown rather than guessing.
+  - type: checkboxes
+    id: safety
+    attributes:
+      label: Permissions and safety
+      options:
+        - label: The proposal can be explored using software, accounts, servers, and environments we own or are authorized to use.
+          required: true
+        - label: The proposal does not require malware, credential theft, unauthorized access, service disruption, or redistribution of protected game files.
+          required: true

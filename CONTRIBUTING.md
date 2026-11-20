@@ -11,6 +11,7 @@ Thanks for helping the community grow. Contributions do not need to be code.
 - Report broken links or outdated information.
 - Share a project showcase with screenshots and a clear description.
 - Help answer questions respectfully.
+- Propose a community project or join an idea through the [project proposal form](https://github.com/kkanninich/I-m-lazy./issues/new?template=project_idea.yml).
 
 ## Before submitting
 
@@ -32,8 +33,13 @@ Thanks for helping the community grow. Contributions do not need to be code.
 - **Known limitations / risks:**
 - **Sources and credits:**
 
+## Community project ideas
+
+Ideas do not need to be fully planned before sharing. Use the project proposal form to describe the goal, the kind of help that might be useful, and any known requirements. Members can contribute through research, testing, documentation, translation, design, or feedback. A proposal does not create an obligation to deliver a project.
+
 ## Pull requests
 
 Keep changes focused. Explain what changed and why, link related discussions when available, and avoid including proprietary game files or unrelated generated binaries.
 
 You are welcome to participate even if you have never made a pull request.
+
