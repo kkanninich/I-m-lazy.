@@ -1,33 +1,42 @@
 ﻿# 7K Re:BIRTH Unlimited Community
 
-An independent community hub for players and enthusiasts interested in **Seven Knights Re:BIRTH**, resource-rich gameplay concepts, game customization, tools, research, and privately hosted experiments.
+An independent community hub for players and enthusiasts interested in **Seven Knights Re:BIRTH**, resource-rich gameplay, game customization, tools, research, guides, and privately hosted experiments.
 
 > **Unofficial fan community.** This project is not affiliated with, endorsed by, or sponsored by Netmarble or the game's rights holders.
 
-## Explore the community
+## Join the community
 
-| Area | What belongs here |
+**[Open GitHub Discussions](https://github.com/kkanninich/I-m-lazy./discussions)** — meet other players, ask questions, share ideas, and show what you are working on.
+
+Start with the [welcome discussion](https://github.com/kkanninich/I-m-lazy./discussions/1).
+
+### Discussion areas
+
+| Category | What belongs here |
 |---|---|
-| Unlimited Gameplay | Resource-rich or unlimited-resource experiences and their design |
-| Mods & Customization | Modding concepts, compatibility notes, and user-created modifications |
-| Private Environments | Self-hosted projects, local testing, and authorized private-server discussions |
-| Tools & Research | Utilities, documentation, technical research, and preservation |
-| Guides & Tutorials | Setup notes, beginner guides, troubleshooting, and translations |
-| Showcase | Screenshots, demonstrations, builds, and project updates |
-| Help & Support | Questions, bug reports, and community assistance |
-| General | Introductions, community topics, and discussion |
+| Unlimited Gameplay | Resource-rich gameplay ideas, experiences, progression systems, and design |
+| Mods and Tools | Mod concepts, customization, tools, compatibility reports, and authorized testing |
+| Private Environments | Self-hosted projects, private-server discussions, and local testing where authorized |
+| Guides and Tutorials | Beginner guides, walkthroughs, troubleshooting notes, and translations |
+| Questions and Support | Questions about gameplay, setup, and compatibility; answers can be marked as accepted |
+| General | Open community conversation |
+| Ideas | Suggestions and community proposals |
+| Showcase | Projects, demonstrations, screenshots, and progress |
+| Announcements | Maintainer updates |
 
 ## Start here
 
 1. Read [Community Guidelines](COMMUNITY_GUIDELINES.md).
 2. See how to [contribute](CONTRIBUTING.md).
 3. Review the [Community Roadmap](COMMUNITY_ROADMAP.md).
-4. Use the [issue templates](https://github.com/kkanninich/I-m-lazy./issues/new/choose) for concrete bug reports, guides, and tool submissions.
-5. See [Discussion Setup](DISCUSSION_SETUP.md) for the community forum plan and the one-time repository setting required to activate it.
+4. Browse the [issue templates](https://github.com/kkanninich/I-m-lazy./issues/new/choose) for bug reports, tool submissions, and guides.
+5. Join the [Discussions forum](https://github.com/kkanninich/I-m-lazy./discussions).
 
 ## Who can join?
 
-You do **not** need to be a developer. Players, collectors, researchers, mod creators, server operators, translators, and curious newcomers are all welcome. This is a community for people who want to exchange ideas and knowledge, not a formal development team.
+You do **not** need to be a developer or join a formal team. Players, collectors, researchers, mod creators, server operators, translators, and curious newcomers are all welcome.
+
+This is a community for people who want to exchange ideas and knowledge, not a formal development team.
 
 ## Important boundaries
 

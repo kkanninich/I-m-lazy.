@@ -1,58 +1,46 @@
 ﻿# GitHub Discussions Setup
 
-GitHub Discussions is intended to be the community forum. Issues should remain focused on bug reports, documentation gaps, and actionable project work.
+## Current status
 
-## One-time repository setting
+**GitHub Discussions is enabled** for this repository, and the first welcome announcement has been published.
 
-An administrator needs to enable Discussions for this repository:
+- [Open the Discussions forum](https://github.com/kkanninich/I-m-lazy./discussions)
+- [Read the welcome announcement](https://github.com/kkanninich/I-m-lazy./discussions/1)
 
-1. Open the repository: https://github.com/kkanninich/I-m-lazy.
-2. Select **Settings**.
-3. In the **Features** section, enable **Discussions** or select **Set up discussions**.
-4. Complete GitHub's first-discussion setup.
+This is the community forum. Use Discussions for open-ended conversations, questions, ideas, and showcases. Use GitHub Issues for actionable bug reports, documentation gaps, and submissions that need maintainer review.
 
-This setting is controlled in the GitHub repository interface. Adding files to the repository does not switch it on.
-
-## Recommended categories
-
-Create these categories after Discussions is enabled:
+## Categories currently configured
 
 | Category | Format | Purpose |
 |---|---|---|
-| Announcements | Announcement | Official community notices and important updates |
-| Introductions | Discussion | New members introduce themselves |
-| General | Discussion | Open community conversation |
-| Questions & Support | Q&A | Questions with answers that can be marked as accepted |
-| Unlimited Gameplay | Discussion | Resource-rich gameplay ideas, experiences, and design |
-| Mods & Tools | Discussion | Modification concepts, tools, compatibility, and testing |
-| Guides & Tutorials | Discussion | How-to posts, translations, and reference material |
-| Showcase | Show and tell | Member projects, screenshots, and demonstrations |
-| Ideas & Requests | Discussion | Suggestions and community priorities |
+| Announcements | Announcement | Maintainer notices and updates |
+| General | Open-ended | Open community conversation |
+| Ideas | Open-ended | Suggestions and community proposals |
+| Polls | Poll | Community votes |
+| Q&A | Question / Answer | Questions with accepted answers |
+| Show and tell | Show and tell | Member projects and demonstrations |
+| Unlimited Gameplay | Open-ended | Resource-rich gameplay ideas, experiences, progression systems, and design |
+| Mods and Tools | Open-ended | Mod concepts, customization, tools, compatibility reports, and authorized testing |
+| Private Environments | Open-ended | Self-hosted projects, private-server discussions, and local testing where authorized |
+| Guides and Tutorials | Open-ended | Beginner guides, walkthroughs, troubleshooting notes, and translations |
+| Questions and Support | Question / Answer | Gameplay, setup, and compatibility help |
 
-## Suggested welcome post
+## Maintainer guidance
 
-Use this as the first discussion and pin it:
+To add or edit categories, open the repository's **Discussions** tab, select the category-editing control, and manage categories from the category settings page.
 
-### Welcome to 7K Re:BIRTH Unlimited Community
+Recommended practices:
 
-Welcome! This is an independent community for players and enthusiasts of Seven Knights Re:BIRTH.
+- Keep Announcements for maintainers.
+- Use Q&A format when a question should have one accepted answer.
+- Keep open-ended categories for ideas, showcases, and experience sharing.
+- Direct reproducible bugs to GitHub Issues.
+- Keep private testing and modifications within environments you own or are explicitly authorized to use.
 
-You do not need to be a developer or join a formal team. Share what you are playing, what you are researching, what tools or guides you are looking for, or what kind of community projects you would like to see.
+## Suggested next community activity
 
-A few starting prompts:
+Invite members to reply to the welcome announcement with the game version and platform they use, their interests, and the kind of information or resources they hope to find.
 
-- What brings you to the community?
-- Which game version and platform are you using?
-- Are you interested in gameplay, mods, tools, guides, private experiments, or simply meeting other players?
-- What would make this community genuinely useful to you?
+## Scope and disclaimer
 
-Please read the Community Guidelines before posting. Keep experiments to environments you own or are authorized to use, protect account credentials and private data, and respect the rights of game owners and tool authors.
-
-This is an unofficial fan community and is not affiliated with or endorsed by Netmarble or the game's rights holders.
-
-## After setup
-
-- Pin the welcome discussion.
-- Enable the Q&A format for Questions & Support.
-- Keep announcements limited to maintainers.
-- Point bug reports and actionable work items to GitHub Issues.
+This is an unofficial fan community and is not affiliated with or endorsed by Netmarble or the game's rights holders. Members are responsible for complying with applicable laws, platform terms, and the permissions governing the software and services they use.

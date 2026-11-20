@@ -11,9 +11,9 @@ This roadmap describes the intended growth of the community. It is a direction, 
 
 ## Community launch — in progress
 
-- [ ] Enable GitHub Discussions in repository settings.
-- [ ] Create and configure community discussion categories.
-- [ ] Publish and pin a welcome post.
+- [x] Enable GitHub Discussions.
+- [x] Publish the first welcome announcement.
+- [x] Create focused categories for Unlimited Gameplay, Mods and Tools, Private Environments, Guides and Tutorials, and Questions and Support.
 - [ ] Invite members to introduce themselves and share what they want from the community.
 - [ ] Collect the first set of guides, tools, and frequently asked questions.
 
