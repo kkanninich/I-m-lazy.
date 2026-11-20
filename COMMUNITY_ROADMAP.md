@@ -13,6 +13,7 @@ This roadmap describes the intended growth of the community. It is a direction, 
 ## Knowledge base — in progress
 
 - [x] Publish a resource directory structure with version, platform, verification, and limitation fields.
+- [x] Seed the knowledge base with a dated tracker of current official reward events and eligibility.
 - [x] Publish a starter FAQ and support guidance.
 - [ ] Collect and review the first community-submitted resources.
 - [ ] Publish practical, step-by-step setup and troubleshooting guides.
@@ -33,3 +34,4 @@ This roadmap describes the intended growth of the community. It is a direction, 
 - Share verified information and label experiments clearly.
 - Preserve attribution and respect intellectual property.
 - Keep activity lawful, consensual, and limited to authorized environments.
+

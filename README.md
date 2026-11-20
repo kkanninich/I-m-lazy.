@@ -10,6 +10,8 @@ An independent community hub for players and enthusiasts interested in **Seven K
 
 Start with the [welcome discussion](https://github.com/kkanninich/I-m-lazy./discussions/1).
 
+See the [Official Free Progress Tracker](FREE_PROGRESS_TRACKER.md) for current, publisher-announced reward opportunities.
+
 ### Discussion areas
 
 | Category | What belongs here |
@@ -51,5 +53,6 @@ This is a community for people who want to exchange ideas and knowledge, not a f
 ## Disclaimer
 
 All game names and trademarks belong to their respective owners. This is an independent, fan-run community project. Participation is voluntary and at your own risk.
+
 
 

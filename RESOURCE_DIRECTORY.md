@@ -16,6 +16,23 @@ This is the community index for tools, guides, research, compatibility notes, an
 
 Verification is always scoped to the versions and environment stated by the contributor. It is not a guarantee that a resource is safe or works for everyone.
 
+## Official game resources
+
+The following items are direct links to publisher notices. They are not third-party tools and do not require an unofficial client.
+
+| Resource | Type | Version / region | Status checked 21 Nov 2026 | Original source |
+|---|---|---|---|---|
+| Free progression and event tracker | Community summary of official reward notices | Global forum; verify in-game | Active / time-limited; events have separate deadlines | [Tracker](FREE_PROGRESS_TRACKER.md) |
+| 1.5th Anniversary Countdown Push | Official daily login reward | Global | Active 19–25 Nov; closes before 26 Nov maintenance | [Official notice](https://forum.netmarble.com/sk_rebirth_gl/view/15/7943) |
+| Abyssal Advent | Official daily and milestone missions | Global | Active through before 26 Nov maintenance | [Official notice](https://forum.netmarble.com/sk_rebirth_gl/view/15/6552) |
+| Seven Knights Support | Permanent-event progression missions | Global | Listed until further notice | [Official notice](https://forum.netmarble.com/sk_rebirth_gl/view/15/7794) |
+| New Adventurer Support | New-account milestone rewards | Accounts created after 12 Nov 2026 maintenance | Listed until further notice; eligibility restricted | [Official notice](https://forum.netmarble.com/sk_rebirth_gl/view/15/7796) |
+
+Publisher channels:
+
+- [Seven Knights Re:BIRTH Official Global Forum](https://forum.netmarble.com/sk_rebirth_gl/list/41/1)
+- [Netmarble official game page](https://www.netmarble.com/en/tskgb)
+- [Google Play listing](https://play.google.com/store/apps/details?id=com.netmarble.tskgb)
 ## Resource index
 
 There are no community-reviewed resource entries yet. Members can submit candidates using the [Share a tool or modification issue form](https://github.com/kkanninich/I-m-lazy./issues/new?template=tool_submission.yml) or share guides in [Discussions](https://github.com/kkanninich/I-m-lazy./discussions).
@@ -41,3 +58,4 @@ Before adding a resource, provide:
 Use [GitHub Issues](https://github.com/kkanninich/I-m-lazy./issues/new/choose) for corrections, broken links, compatibility reports, and resource submissions. Keep account data, passwords, session cookies, and access tokens out of every report.
 
 See [Community Guidelines](COMMUNITY_GUIDELINES.md) before contributing.
+
